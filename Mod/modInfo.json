@@ -1,0 +1,9 @@
+{
+  "identifier": "erkle64.FastDroneMiners",
+  "displayName": "FastDroneMiners",
+  "assetBundles": [ ],
+  "assemblies": [
+    "FastDroneMiners.dll"
+  ]
+}
+
